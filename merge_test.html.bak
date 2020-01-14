@@ -7,9 +7,16 @@
 	<title>Document</title>
 </head>
 <body>
-	<div>
+<<<<<<< HEAD
+	<div class="foo">
+=======
+	<div class="goo">
+>>>>>>> test1
 		<p>마스터에서 작성했습니다.</p>
 	</div>
+
+
+
 	<span>test1에서 추가한 내용입니다.</span>
 </body>
 </html>
